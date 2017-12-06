@@ -1,0 +1,117 @@
+CLASSIFICAZIONE FIN.,TIPOLOGIA DRG,MDC,ACC,NUMERO RICOVERI,CONSUMO MEDIO RICOVERO
+DH,C,Malattie e disturbi apparato digerente,ALTRA RIPARAZIONE DI ERNIA,2,1525
+DO,C,Malattie e disturbi apparato digerente,ALTRA RIPARAZIONE DI ERNIA,5,1557.8
+DO,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE FRATTURE,1,320
+RS,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE FRATTURE,1,3292
+DO,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE MALATTIE CIRCOLATORIE,1,2119
+DO,M,Malattie e disturbi sistema cardiocircolatorio,ALTRE MALATTIE CIRCOLATORIE,1,2129
+DO,M,Malattie e disturbi rene e vie urinarie,ALTRE MALATTIE DEL RENE E DEGLI URETERI,1,258
+RS,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE MALATTIE DEL TESSUTO CONNETTIVO,13,4709.77
+DO,M,Malattie e disturbi rene e vie urinarie,ALTRE MALATTIE DELLA VESCICA E DELL'URETRA,1,161
+RS,M,Malattie e disturbi apparato respiratorio,ALTRE MALATTIE DELLE VIE RESPIRATORIE INFERIORI,1,225
+DO,M,Malattie e disturbi apparato respiratorio,ALTRE MALATTIE DELLE VIE RESPIRATORIE SUPERIORI,2,258.5
+DO,M,"Malattie e disturbi orecchio, naso e gola",ALTRE MALATTIE DELLE VIE RESPIRATORIE SUPERIORI,1,290
+DH,M,Malattie e disturbi apparato riproduttivo femminile,ALTRE PATOLOGIE DEGLI ORGANI GENITALI FEMMINILI,1,159
+DH,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE DIAGNOSTICHE SULL'APPARATO MUSCOLOSCHELETRICO,1,1555
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE PER FRATTURA E LUSSAZIONE,2,2864
+DH,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU ARTICOLAZIONI,1,2129
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU ARTICOLAZIONI,1,2129
+DO,C,"Traumatismi, avvelenamenti ed effetti tossici dei farmaci",ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU ARTICOLAZIONI,1,4243
+DO,C,Fattori influenzanti lo stato di salute ed il ricorso ai servizi sanitari,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU CUTE E MAMMELLA,2,2225
+DH,C,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU CUTE E MAMMELLA,1,3158
+DH,C,"Malattie e disturbi pelle, tessuto sottocutaneo e mammella",ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU CUTE E MAMMELLA,1,1731
+DO,C,"Malattie e disturbi pelle, tessuto sottocutaneo e mammella",ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU CUTE E MAMMELLA,3,2291
+DH,C,"Malattie e disturbi orecchio, naso e gola","ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU NASO, BOCCA E FARINGE",1,1790
+DO,C,"Malattie e disturbi orecchio, naso e gola","ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU NASO, BOCCA E FARINGE",1,2459
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU OSSA,2,2154.5
+DH,C,"Malattie e disturbi orecchio, naso e gola",ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SU SISTEMA RESPIRATORIO,1,1376
+DO,C,Malattie e disturbi apparato riproduttivo femminile,ALTRE PROCEDURE TERAPEUTICHE DI SALA OPERATORIA SUGLI ORGANI GENITALI FEMMINILI,1,2213
+DO,C,"Malattie e disturbi endocrini, metabolici e nutrizionali",ALTRE PROCEDURE TERAPEUTICHE ENDOCRINE,3,5335.67
+DH,C,Malattie e disturbi occhio,ALTRE PROCEDURE TERAPEUTICHE INTRAOCULARI,1,2123
+DO,C,Malattie e disturbi occhio,ALTRE PROCEDURE TERAPEUTICHE INTRAOCULARI,3,1962.33
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRE PROCEDURE TERAPEUTICHE SU MUSCOLI E TENDINI,5,1954.6
+DO,C,Malattie e disturbi occhio,"ALTRE PROCEDURE TERAPEUTICHE SU PALPEBRA, CONGIUNTIVA, CORNEA",1,1281
+DH,C,Malattie e disturbi sangue ed organi ematopoietici e sistema immunitario,ALTRE PROCEDURE TERAPEUTICHE SUL SISTEMA EMATICO E LINFATICO,1,3218
+DO,M,"Malattie e disturbi endocrini, metabolici e nutrizionali",ALTRI DISORDINI ENDOCRINI,1,1084
+DO,M,"Malattie e disturbi endocrini, metabolici e nutrizionali","ALTRI DISORDINI ENDOCRINI, METABOLICI E NUTRIZIONALI",2,1811
+DH,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ALTRI DISTURBI ARTICOLARI NON TRAUMATICI,1,183
+DH,M,Malattie e disturbi sistema nervoso,ALTRI DISTURBI DEL SISTEMA NERVOSO,1,574
+DO,M,Malattie e disturbi sistema nervoso,ALTRI DISTURBI DEL SISTEMA NERVOSO,1,1722
+DO,M,"Malattie e disturbi orecchio, naso e gola",ALTRI DISTURBI DELL'ORECCHIO E DELL'UDITO,1,2341
+DO,M,Malattie e disturbi apparato digerente,ALTRI DISTURBI GASTROINTESTINALI,1,1621
+DO,M,Malattie e disturbi apparato digerente,ALTRI E NON SPECIFICATI TUMORI BENIGNI,1,164
+DO,C,"Malattie e disturbi endocrini, metabolici e nutrizionali",ALTRI E NON SPECIFICATI TUMORI BENIGNI,1,6272
+DH,C,"Malattie e disturbi pelle, tessuto sottocutaneo e mammella",ALTRI E NON SPECIFICATI TUMORI BENIGNI,1,1169
+DH,M,"Malattie e disturbi pelle, tessuto sottocutaneo e mammella",ALTRI E NON SPECIFICATI TUMORI BENIGNI,1,130
+DO,M,Malattie e disturbi sistema nervoso,ALTRI E NON SPECIFICATI TUMORI BENIGNI,1,3135
+DO,M,Malattie e disturbi sangue ed organi ematopoietici e sistema immunitario,ANEMIA DA CARENZA E ALTRE ANEMIE,1,1676
+DO,M,"Malattie e disturbi orecchio, naso e gola",ANOMALIE CONGENITE DEL SISTEMA DIGESTIVO,1,300
+DO,C,Malattie e disturbi apparato digerente,APPENDICECTOMIA,1,3465
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ARTRODESI VERTEBRALE,1,7940
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ARTROPLASTICA DEL GINOCCHIO,12,8429.25
+DH,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,"ARTROPLASTICA, ECCETTO SU ANCA O GINOCCHIO",1,1921
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,"ARTROPLASTICA, ECCETTO SU ANCA O GINOCCHIO",4,5046.75
+DO,M,Malattie e disturbi apparato respiratorio,ASMA,6,2161.17
+RS,M,Malattie e disturbi apparato respiratorio,ASMA,2,4604
+SA,M,Malattie e disturbi apparato respiratorio,ASMA,1,8550
+DH,C,Malattie e disturbi apparato riproduttivo femminile,ASPORTAZIONE DELLA CERVICE E DELL'UTERO,4,2133
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ASPORTAZIONE DI BORSITE O CORREZIONE DI DEFORMITA' DELLE DITA,3,2086.33
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,ASPORTAZIONE DI CARTILAGINE SEMILUNARE DEL GINOCCHIO,1,2005
+DH,C,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,ASPORTAZIONE DI LESIONE CUTANEA,1,3158
+DO,C,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,ASPORTAZIONE DI LESIONE CUTANEA,1,3158
+DO,C,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,"ASPORTAZIONE, DRENAGGIO O RIMOZIONE TRANSURETRALE DI OSTRUZIONE URINARIA",1,4336
+DH,M,Malattie e disturbi rene e vie urinarie,CALCOLOSI DELLE VIE URINARIE,2,944
+DO,M,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,CHEMIOTERAPIA E RADIOTERAPIA,1,4162
+DH,M,Fattori influenzanti lo stato di salute ed il ricorso ai servizi sanitari,"CODICI RESIDUI, NON CLASSIFICATI",1,225
+DO,M,Fattori influenzanti lo stato di salute ed il ricorso ai servizi sanitari,"CODICI RESIDUI, NON CLASSIFICATI",2,576
+DO,M,"Malattie e disturbi orecchio, naso e gola","CODICI RESIDUI, NON CLASSIFICATI",1,580
+DO,C,Malattie e disturbi epatobiliari e pancreas,COLECISTECTOMIA ED ESPLORAZIONE DEL DOTTO COMUNE,5,2676.4
+DO,M,Malattie e disturbi sistema cardiocircolatorio,COMPLICAZIONI DI INTERVENTI CHIRURGICI O DI CURE MEDICHE,1,1133
+RM,M,Fattori influenzanti lo stato di salute ed il ricorso ai servizi sanitari,"CURE RIABILITATIVE, COLLOCAZIONE DI PROTESI E SISTEMAZIONE DI DISPOSITIVI",1,1757
+DH,C,Malattie e disturbi sistema nervoso,DECOMPRESSIONE NERVO PERIFERICO,1,1812
+DO,M,"Malattie e disturbi endocrini, metabolici e nutrizionali",DISORDINI DEI LIQUIDI E DEGLI ELETTROLITI,1,1811
+DH,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,DISTURBI ARTICOLARI E LUSSAZIONI DA TRAUMA,1,257
+DO,M,Malattie e disturbi mentali,DISTURBI DELL'UMORE,1,3122
+DO,M,Malattie e disturbi sistema cardiocircolatorio,DOLORE TORACICO NON SPECIFICO,1,238
+RS,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,FRATTURA DEL COLLO DEL FEMORE,2,7729.5
+RS,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,FRATTURE DEGLI ARTI INFERIORI,1,5322
+DO,M,Malattie e disturbi apparato digerente,GASTRITE E DUODENITE,2,1072
+DH,M,Malattie e disturbi rene e vie urinarie,INFEZIONI DELLE VIE URINARIE,5,2928
+DH,C,"Malattie e disturbi pelle, tessuto sottocutaneo e mammella",INNESTO CUTANEO,1,1455
+DO,M,Malattie e disturbi apparato respiratorio,"INSUFFICIENZA RESPIRATORIA, ARRESTO RESPIRATORIO (ADULTI)",3,3780
+RS,M,Malattie e disturbi apparato respiratorio,"INSUFFICIENZA RESPIRATORIA, ARRESTO RESPIRATORIO (ADULTI)",1,5507
+DO,M,Malattie e disturbi sistema cardiocircolatorio,IPERTENSIONE ESSENZIALE,1,2193
+DO,C,Malattie e disturbi apparato riproduttivo femminile,"ISTERECTOMIA, ADDOMINALE E VAGINALE",1,3067
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,"LAMINECTOMIA, ASPORTAZIONE DISCO INTERVERTEBRALE",1,5820
+DO,M,Malattie e disturbi sistema cardiocircolatorio,MALATTIE DELLE VALVOLE CARDIACHE,1,2193
+DO,M,Malattie e disturbi epatobiliari e pancreas,MALATTIE DELLE VIE BILIARI,2,813.5
+DH,M,Malattie e disturbi apparato riproduttivo femminile,MALATTIE INFIAMMATORIE DEGLI ORGANI PELVICI FEMMINILI,1,262
+DO,M,Malattie e disturbi apparato respiratorio,MALATTIE POLMONARI CRONICHE OSTRUTTIVE E BRONCHIECTASIE,1,3798
+RS,M,Malattie e disturbi apparato respiratorio,MALATTIE POLMONARI CRONICHE OSTRUTTIVE E BRONCHIECTASIE,2,8813
+DO,M,Malattie e disturbi rene e vie urinarie,"NEFRITE, SINDROME NEFROSICA E SCLEROSI RENALE",1,1700
+DO,M,Malattie e disturbi apparato digerente,OCCLUSIONE INTESTINALE SENZA MENZIONE DI ERNIA,1,2880
+RS,M,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,OSTEOARTROSI,1,4764
+DO,C,Malattie e disturbi apparato riproduttivo femminile,"OVARIECTOMIA, MONOLATERALE E BILATERALE",1,3067
+DO,M,Malattie e disturbi apparato respiratorio,POLMONITI (ESCLUSE QUELLE CAUSATE DA TUBERCOLOSI O DA MALATTIE SESSUALMENTE TRASMESSE),6,3149.67
+DO,C,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,PROCEDURE SULL'URETRA,1,4336
+DO,C,Malattie e disturbi apparato riproduttivo maschile,PROSTATECTOMIA TRANSURETRALE (TURP),1,2448
+DO,C,Malattie e disturbi apparato digerente,RESEZIONE DEL COLON E DEL RETTO,2,10634
+DO,C,Malattie e disturbi apparato digerente,RESEZIONE DELL'INTESTINO TENUE,2,7061
+DO,C,Fattori influenzanti lo stato di salute ed il ricorso ai servizi sanitari,"RIMOZIONE DI NODULO MAMMARIO, QUADRANTECTOMIA DELLA MAMMELLA",1,2425
+DO,C,Malattie e disturbi apparato riproduttivo femminile,"RIPARAZIONE DI CISTOCELE E RETTOCELE, OBLITERAZIONE DEL FORNICE VAGINALE",1,3039
+DH,C,Malattie e disturbi apparato digerente,RIPARAZIONE DI ERNIA INGUINALE E CRURALE,5,1106.8
+DO,C,Malattie e disturbi apparato digerente,RIPARAZIONE DI ERNIA INGUINALE E CRURALE,2,1120
+DO,M,Malattie infettive e parassitarie,SETTICEMIA (ESCLUSO IN TRAVAGLIO),1,5101
+DO,M,Malattie e disturbi sistema cardiocircolatorio,SINCOPE,1,1133
+DO,M,"Malattie e disturbi orecchio, naso e gola",SINDROMI VERTIGINOSE ED ALTRI DISTURBI DEL SISTEMA VESTIBOLARE,1,953
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,"SOSTITUZIONE DELL'ANCA, TOTALE E PARZIALE",2,8443
+DO,C,"Malattie e disturbi endocrini, metabolici e nutrizionali","TIROIDECTOMIA, PARZIALE O COMPLETA",9,3377
+DH,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,TRATTAMENTO PER FRATTURA O LUSSAZIONE DELLE ESTREMITA' INFERIORI (ESCLUSO ANCA E FEMORE),1,2316
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,TRATTAMENTO PER FRATTURA O LUSSAZIONE DI ANCA E FEMORE,3,5435.33
+DO,C,Malattie e disturbi apparato osteomuscolare e tessuto connettivo,TRATTAMENTO PER FRATTURA O LUSSAZIONE DI RADIO E ULNA,2,2086
+DO,M,"Malattie e disturbi endocrini, metabolici e nutrizionali",TUMORI DI NATURA NON SPECIFICATA O COMPORTAMENTO INCERTO,1,1084
+DO,M,Malattie e disturbi sistema nervoso,TUMORI DI NATURA NON SPECIFICATA O COMPORTAMENTO INCERTO,1,3041
+DO,M,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,TUMORI MALIGNI DELLA VESCICA,1,437
+DH,M,Malattie e disturbi apparato riproduttivo femminile,TUMORI MALIGNI DI ALTRI ORGANI GENITALI FEMMINILI,2,486
+DO,M,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,TUMORI MALIGNI DI TESTA E COLLO,1,135
+DH,M,Malattie e disturbi mieloproliferativi e neoplasie scarsamente differenziate,TUMORI MALIGNI PRIMITIVI DI ALTRE E MAL DEFINITE SEDI,1,135
