@@ -30,16 +30,16 @@ public class DataVisualization {
 
 
     try {
-      displayMethod = parent.getClass().getMethod("displayEntry", 
-        new Class[] { 
+      displayMethod = parent.getClass().getMethod("displayEntry",
+        new Class[] {
         TableRow.class
         }
         );
-    } 
+    }
     catch (Exception e) {
       // no such method, or an error.. which is fine, just ignore
 
-      parent.println("Azz manca il metodo displayEntry");
+      parent.println("Manca il metodo displayEntry");
     }
   }
 
@@ -61,7 +61,7 @@ public class DataVisualization {
     if (displayMethod != null) {
       try {
         displayMethod.invoke(parent, row);
-      } 
+      }
       catch (Exception e) {
         parent.println("Disabling displayEntry() because of an error.");
         // e.printStackTrace();
