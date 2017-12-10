@@ -32,8 +32,9 @@ public class DataVisualization {
     try {
       displayMethod = parent.getClass().getMethod("displayEntry",
         new Class[] {
-        TableRow.class
-        }
+        TableRow.class,
+        int.class
+      }
         );
     }
     catch (Exception e) {
@@ -52,15 +53,17 @@ public class DataVisualization {
   }
 
   public void visualize() {
+    int i = 0;
     for (TableRow row : table.rows()) {
-      displayEntryImpl(row);
+      displayEntryImpl(row, i);
+      i++;
     }
   }
 
-  private void displayEntryImpl(TableRow row) {
+  private void displayEntryImpl(TableRow row, int idx) {
     if (displayMethod != null) {
       try {
-        displayMethod.invoke(parent, row);
+        displayMethod.invoke(parent, row, idx);
       }
       catch (Exception e) {
         parent.println("Disabling displayEntry() because of an error.");
