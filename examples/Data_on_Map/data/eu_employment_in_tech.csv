@@ -1,0 +1,595 @@
+TIME,GEO,SEX,VALUE
+2008,Belgium,Males,5.4
+2008,Belgium,Females,3.1
+2008,Bulgaria,Males,3
+2008,Bulgaria,Females,3.1
+2008,Czech Republic,Males,4.1
+2008,Czech Republic,Females,3.4
+2008,Denmark,Males,6.1
+2008,Denmark,Females,3.9
+2008,Germany (until 1990 former territory of the FRG),Males,5
+2008,Germany (until 1990 former territory of the FRG),Females,3.1
+2008,Estonia,Males,3.1
+2008,Estonia,Females,3.4
+2008,Ireland,Males,7.3
+2008,Ireland,Females,4.7
+2008,Greece,Males,2.3
+2008,Greece,Females,2
+2008,Spain,Males,3.7
+2008,Spain,Females,2.7
+2008,France,Males,4.8
+2008,France,Females,2.8
+2008,Croatia,Males,3
+2008,Croatia,Females,2.7
+2008,Italy,Males,3.8
+2008,Italy,Females,2.7
+2008,Cyprus,Males,3.5
+2008,Cyprus,Females,2.1
+2008,Latvia,Males,2.8
+2008,Latvia,Females,2
+2008,Lithuania,Males,2
+2008,Lithuania,Females,1.7
+2008,Luxembourg,Males,4.5
+2008,Luxembourg,Females,2.4
+2008,Hungary,Males,5.4
+2008,Hungary,Females,4.6
+2008,Malta,Males,6.9
+2008,Malta,Females,5.3
+2008,Netherlands,Males,5.7
+2008,Netherlands,Females,2.3
+2008,Austria,Males,4.4
+2008,Austria,Females,2.4
+2008,Poland,Males,2.9
+2008,Poland,Females,2.2
+2008,Portugal,Males,2.4
+2008,Portugal,Females,2.1
+2008,Romania,Males,1.9
+2008,Romania,Females,1.6
+2008,Slovenia,Males,5.2
+2008,Slovenia,Females,3.6
+2008,Slovakia,Males,3.7
+2008,Slovakia,Females,3.5
+2008,Finland,Males,7.1
+2008,Finland,Females,4.4
+2008,Sweden,Males,6.4
+2008,Sweden,Females,3.2
+2008,United Kingdom,Males,6.4
+2008,United Kingdom,Females,3.1
+2008,Iceland,Males,5.3
+2008,Iceland,Females,3.6
+2008,Norway,Males,4.8
+2008,Norway,Females,2.4
+2008,Switzerland,Males,6.9
+2008,Switzerland,Females,4.1
+2008,"Former Yugoslav Republic of Macedonia, the",Males,:
+2008,"Former Yugoslav Republic of Macedonia, the",Females,:
+2008,Turkey,Males,:
+2008,Turkey,Females,:
+2009,Belgium,Males,5.6
+2009,Belgium,Females,3.1
+2009,Bulgaria,Males,3
+2009,Bulgaria,Females,2.7
+2009,Czech Republic,Males,4.4
+2009,Czech Republic,Females,3.4
+2009,Denmark,Males,6.5
+2009,Denmark,Females,3.6
+2009,Germany (until 1990 former territory of the FRG),Males,5.3
+2009,Germany (until 1990 former territory of the FRG),Females,3.1
+2009,Estonia,Males,3.5
+2009,Estonia,Females,3.5
+2009,Ireland,Males,8.3
+2009,Ireland,Females,4.8
+2009,Greece,Males,2.5
+2009,Greece,Females,1.7
+2009,Spain,Males,3.7
+2009,Spain,Females,2.6
+2009,France,Males,5
+2009,France,Females,2.8
+2009,Croatia,Males,2.9
+2009,Croatia,Females,2.2
+2009,Italy,Males,3.8
+2009,Italy,Females,2.7
+2009,Cyprus,Males,3.1
+2009,Cyprus,Females,1.8
+2009,Latvia,Males,3.3
+2009,Latvia,Females,1.8
+2009,Lithuania,Males,2.4
+2009,Lithuania,Females,1.7
+2009,Luxembourg,Males,4.3
+2009,Luxembourg,Females,2.5
+2009,Hungary,Males,5.1
+2009,Hungary,Females,4.2
+2009,Malta,Males,6
+2009,Malta,Females,5.4
+2009,Netherlands,Males,5.6
+2009,Netherlands,Females,2.1
+2009,Austria,Males,4.7
+2009,Austria,Females,2.5
+2009,Poland,Males,3.1
+2009,Poland,Females,2.2
+2009,Portugal,Males,2.6
+2009,Portugal,Females,1.9
+2009,Romania,Males,2
+2009,Romania,Females,1.6
+2009,Slovenia,Males,5.7
+2009,Slovenia,Females,3.8
+2009,Slovakia,Males,3.7
+2009,Slovakia,Females,3.2
+2009,Finland,Males,7.2
+2009,Finland,Females,4.5
+2009,Sweden,Males,6.6
+2009,Sweden,Females,3.3
+2009,United Kingdom,Males,5.6
+2009,United Kingdom,Females,2.7
+2009,Iceland,Males,6.2
+2009,Iceland,Females,3.6
+2009,Norway,Males,5.1
+2009,Norway,Females,2.2
+2009,Switzerland,Males,7.3
+2009,Switzerland,Females,4
+2009,"Former Yugoslav Republic of Macedonia, the",Males,:
+2009,"Former Yugoslav Republic of Macedonia, the",Females,:
+2009,Turkey,Males,0.9
+2009,Turkey,Females,0.9
+2010,Belgium,Males,5.8
+2010,Belgium,Females,3.4
+2010,Bulgaria,Males,3.1
+2010,Bulgaria,Females,2.9
+2010,Czech Republic,Males,4.8
+2010,Czech Republic,Females,3.7
+2010,Denmark,Males,7.1
+2010,Denmark,Females,3.7
+2010,Germany (until 1990 former territory of the FRG),Males,5.3
+2010,Germany (until 1990 former territory of the FRG),Females,3.1
+2010,Estonia,Males,3.7
+2010,Estonia,Females,3.1
+2010,Ireland,Males,9
+2010,Ireland,Females,4.9
+2010,Greece,Males,2.5
+2010,Greece,Females,2
+2010,Spain,Males,4
+2010,Spain,Females,2.6
+2010,France,Males,4.9
+2010,France,Females,2.9
+2010,Croatia,Males,3.1
+2010,Croatia,Females,2.1
+2010,Italy,Males,3.7
+2010,Italy,Females,2.6
+2010,Cyprus,Males,2.6
+2010,Cyprus,Females,1.6
+2010,Latvia,Males,4.4
+2010,Latvia,Females,2.1
+2010,Lithuania,Males,2.4
+2010,Lithuania,Females,1.5
+2010,Luxembourg,Males,5
+2010,Luxembourg,Females,3
+2010,Hungary,Males,5.3
+2010,Hungary,Females,4.6
+2010,Malta,Males,4.9
+2010,Malta,Females,5.4
+2010,Netherlands,Males,5.6
+2010,Netherlands,Females,1.9
+2010,Austria,Males,4.6
+2010,Austria,Females,2.5
+2010,Poland,Males,3
+2010,Poland,Females,2.3
+2010,Portugal,Males,2.7
+2010,Portugal,Females,1.8
+2010,Romania,Males,2
+2010,Romania,Females,1.5
+2010,Slovenia,Males,5.7
+2010,Slovenia,Females,4.3
+2010,Slovakia,Males,4
+2010,Slovakia,Females,3.6
+2010,Finland,Males,7.5
+2010,Finland,Females,4.2
+2010,Sweden,Males,6.4
+2010,Sweden,Females,3.1
+2010,United Kingdom,Males,5.7
+2010,United Kingdom,Females,2.5
+2010,Iceland,Males,6.3
+2010,Iceland,Females,3.5
+2010,Norway,Males,4.9
+2010,Norway,Females,2.3
+2010,Switzerland,Males,6.8
+2010,Switzerland,Females,4
+2010,"Former Yugoslav Republic of Macedonia, the",Males,:
+2010,"Former Yugoslav Republic of Macedonia, the",Females,:
+2010,Turkey,Males,1.1
+2010,Turkey,Females,0.9
+2011,Belgium,Males,5.8
+2011,Belgium,Females,3.2
+2011,Bulgaria,Males,3.1
+2011,Bulgaria,Females,3
+2011,Czech Republic,Males,5.3
+2011,Czech Republic,Females,3.6
+2011,Denmark,Males,7
+2011,Denmark,Females,3.6
+2011,Germany (until 1990 former territory of the FRG),Males,5.3
+2011,Germany (until 1990 former territory of the FRG),Females,3.1
+2011,Estonia,Males,5
+2011,Estonia,Females,3.1
+2011,Ireland,Males,9
+2011,Ireland,Females,5.2
+2011,Greece,Males,2.2
+2011,Greece,Females,2
+2011,Spain,Males,4.2
+2011,Spain,Females,2.8
+2011,France,Males,5
+2011,France,Females,3.1
+2011,Croatia,Males,3.6
+2011,Croatia,Females,1.7
+2011,Italy,Males,3.9
+2011,Italy,Females,2.6
+2011,Cyprus,Males,2.9
+2011,Cyprus,Females,2.1
+2011,Latvia,Males,3.7
+2011,Latvia,Females,2.4
+2011,Lithuania,Males,2.6
+2011,Lithuania,Females,1.9
+2011,Luxembourg,Males,4.8
+2011,Luxembourg,Females,2.3
+2011,Hungary,Males,5.7
+2011,Hungary,Females,4.8
+2011,Malta,Males,6
+2011,Malta,Females,5.2
+2011,Netherlands,Males,5.3
+2011,Netherlands,Females,2
+2011,Austria,Males,4.6
+2011,Austria,Females,2.3
+2011,Poland,Males,2.9
+2011,Poland,Females,2.4
+2011,Portugal,Males,2.4
+2011,Portugal,Females,1.7
+2011,Romania,Males,2.3
+2011,Romania,Females,1.7
+2011,Slovenia,Males,6
+2011,Slovenia,Females,3.7
+2011,Slovakia,Males,4.2
+2011,Slovakia,Females,3.9
+2011,Finland,Males,7.4
+2011,Finland,Females,4.1
+2011,Sweden,Males,6.5
+2011,Sweden,Females,3.1
+2011,United Kingdom,Males,6
+2011,United Kingdom,Females,2.5
+2011,Iceland,Males,6.7
+2011,Iceland,Females,3.6
+2011,Norway,Males,5
+2011,Norway,Females,2.4
+2011,Switzerland,Males,6.8
+2011,Switzerland,Females,4.1
+2011,"Former Yugoslav Republic of Macedonia, the",Males,2.1
+2011,"Former Yugoslav Republic of Macedonia, the",Females,1.5
+2011,Turkey,Males,1.2
+2011,Turkey,Females,0.9
+2012,Belgium,Males,6.1
+2012,Belgium,Females,3.1
+2012,Bulgaria,Males,3.3
+2012,Bulgaria,Females,3.1
+2012,Czech Republic,Males,4.9
+2012,Czech Republic,Females,3.7
+2012,Denmark,Males,6.8
+2012,Denmark,Females,3.9
+2012,Germany (until 1990 former territory of the FRG),Males,5.4
+2012,Germany (until 1990 former territory of the FRG),Females,3
+2012,Estonia,Males,4.1
+2012,Estonia,Females,3.2
+2012,Ireland,Males,9.5
+2012,Ireland,Females,5.3
+2012,Greece,Males,2.4
+2012,Greece,Females,2
+2012,Spain,Males,4.4
+2012,Spain,Females,2.9
+2012,France,Males,5
+2012,France,Females,3
+2012,Croatia,Males,3.4
+2012,Croatia,Females,1.6
+2012,Italy,Males,3.8
+2012,Italy,Females,2.8
+2012,Cyprus,Males,3.2
+2012,Cyprus,Females,2.6
+2012,Latvia,Males,3.3
+2012,Latvia,Females,1.8
+2012,Lithuania,Males,2.7
+2012,Lithuania,Females,2.1
+2012,Luxembourg,Males,5.4
+2012,Luxembourg,Females,2.7
+2012,Hungary,Males,5.8
+2012,Hungary,Females,4.4
+2012,Malta,Males,6.6
+2012,Malta,Females,5.1
+2012,Netherlands,Males,5.4
+2012,Netherlands,Females,2
+2012,Austria,Males,4.4
+2012,Austria,Females,2.6
+2012,Poland,Males,3.2
+2012,Poland,Females,2.5
+2012,Portugal,Males,2.6
+2012,Portugal,Females,1.8
+2012,Romania,Males,2.4
+2012,Romania,Females,1.9
+2012,Slovenia,Males,5.7
+2012,Slovenia,Females,3.5
+2012,Slovakia,Males,4.4
+2012,Slovakia,Females,3.5
+2012,Finland,Males,7.5
+2012,Finland,Females,4.1
+2012,Sweden,Males,6.6
+2012,Sweden,Females,3.1
+2012,United Kingdom,Males,6
+2012,United Kingdom,Females,2.7
+2012,Iceland,Males,6.3
+2012,Iceland,Females,3.3
+2012,Norway,Males,5.1
+2012,Norway,Females,2.4
+2012,Switzerland,Males,7.1
+2012,Switzerland,Females,3.8
+2012,"Former Yugoslav Republic of Macedonia, the",Males,2.3
+2012,"Former Yugoslav Republic of Macedonia, the",Females,1.7
+2012,Turkey,Males,1.3
+2012,Turkey,Females,1
+2013,Belgium,Males,5.8
+2013,Belgium,Females,2.8
+2013,Bulgaria,Males,3.5
+2013,Bulgaria,Females,3.2
+2013,Czech Republic,Males,5.3
+2013,Czech Republic,Females,3.7
+2013,Denmark,Males,7
+2013,Denmark,Females,3.8
+2013,Germany (until 1990 former territory of the FRG),Males,5.2
+2013,Germany (until 1990 former territory of the FRG),Females,3
+2013,Estonia,Males,4.7
+2013,Estonia,Females,3.5
+2013,Ireland,Males,9.3
+2013,Ireland,Females,5.1
+2013,Greece,Males,2.8
+2013,Greece,Females,1.9
+2013,Spain,Males,4.5
+2013,Spain,Females,2.8
+2013,France,Males,5
+2013,France,Females,2.8
+2013,Croatia,Males,3.2
+2013,Croatia,Females,2.3
+2013,Italy,Males,4
+2013,Italy,Females,2.6
+2013,Cyprus,Males,2.8
+2013,Cyprus,Females,2.5
+2013,Latvia,Males,4
+2013,Latvia,Females,2.2
+2013,Lithuania,Males,2.7
+2013,Lithuania,Females,1.8
+2013,Luxembourg,Males,5.1
+2013,Luxembourg,Females,2.5
+2013,Hungary,Males,6
+2013,Hungary,Females,4.5
+2013,Malta,Males,6.4
+2013,Malta,Females,5.9
+2013,Netherlands,Males,5.2
+2013,Netherlands,Females,1.8
+2013,Austria,Males,4.9
+2013,Austria,Females,2.6
+2013,Poland,Males,3.3
+2013,Poland,Females,2.5
+2013,Portugal,Males,2.9
+2013,Portugal,Females,2
+2013,Romania,Males,2.5
+2013,Romania,Females,2.1
+2013,Slovenia,Males,5.9
+2013,Slovenia,Females,3.9
+2013,Slovakia,Males,4.6
+2013,Slovakia,Females,2.5
+2013,Finland,Males,7.7
+2013,Finland,Females,4
+2013,Sweden,Males,6.5
+2013,Sweden,Females,3.1
+2013,United Kingdom,Males,6.3
+2013,United Kingdom,Females,2.8
+2013,Iceland,Males,6.3
+2013,Iceland,Females,3.4
+2013,Norway,Males,5.3
+2013,Norway,Females,2.2
+2013,Switzerland,Males,7.2
+2013,Switzerland,Females,3.8
+2013,"Former Yugoslav Republic of Macedonia, the",Males,2.1
+2013,"Former Yugoslav Republic of Macedonia, the",Females,1.5
+2013,Turkey,Males,1.3
+2013,Turkey,Females,1
+2014,Belgium,Males,5.8
+2014,Belgium,Females,2.8
+2014,Bulgaria,Males,3.5
+2014,Bulgaria,Females,3
+2014,Czech Republic,Males,5.6
+2014,Czech Republic,Females,3.7
+2014,Denmark,Males,7.1
+2014,Denmark,Females,3.8
+2014,Germany (until 1990 former territory of the FRG),Males,5.2
+2014,Germany (until 1990 former territory of the FRG),Females,3
+2014,Estonia,Males,5.3
+2014,Estonia,Females,3.7
+2014,Ireland,Males,9.3
+2014,Ireland,Females,5
+2014,Greece,Males,2.7
+2014,Greece,Females,2.3
+2014,Spain,Males,4.4
+2014,Spain,Females,2.8
+2014,France,Males,4.9
+2014,France,Females,2.8
+2014,Croatia,Males,3.4
+2014,Croatia,Females,2.8
+2014,Italy,Males,4
+2014,Italy,Females,2.6
+2014,Cyprus,Males,3.4
+2014,Cyprus,Females,2.4
+2014,Latvia,Males,4.2
+2014,Latvia,Females,2.5
+2014,Lithuania,Males,2.7
+2014,Lithuania,Females,1.4
+2014,Luxembourg,Males,5.6
+2014,Luxembourg,Females,2.7
+2014,Hungary,Males,5.4
+2014,Hungary,Females,3.9
+2014,Malta,Males,6.5
+2014,Malta,Females,5.6
+2014,Netherlands,Males,5.1
+2014,Netherlands,Females,1.8
+2014,Austria,Males,5.5
+2014,Austria,Females,2.4
+2014,Poland,Males,3.4
+2014,Poland,Females,2.4
+2014,Portugal,Males,3.6
+2014,Portugal,Females,1.9
+2014,Romania,Males,2.7
+2014,Romania,Females,2
+2014,Slovenia,Males,5.9
+2014,Slovenia,Females,4.2
+2014,Slovakia,Males,4.5
+2014,Slovakia,Females,2.8
+2014,Finland,Males,7.8
+2014,Finland,Females,3.8
+2014,Sweden,Males,6.5
+2014,Sweden,Females,2.9
+2014,United Kingdom,Males,6.3
+2014,United Kingdom,Females,2.9
+2014,Iceland,Males,7
+2014,Iceland,Females,4
+2014,Norway,Males,5.5
+2014,Norway,Females,2.4
+2014,Switzerland,Males,7.9
+2014,Switzerland,Females,4.1
+2014,"Former Yugoslav Republic of Macedonia, the",Males,2.2
+2014,"Former Yugoslav Republic of Macedonia, the",Females,2
+2014,Turkey,Males,1.2
+2014,Turkey,Females,1
+2015,Belgium,Males,5.7
+2015,Belgium,Females,2.8
+2015,Bulgaria,Males,4
+2015,Bulgaria,Females,3.4
+2015,Czech Republic,Males,5.2
+2015,Czech Republic,Females,3.7
+2015,Denmark,Males,7.1
+2015,Denmark,Females,4
+2015,Germany (until 1990 former territory of the FRG),Males,5
+2015,Germany (until 1990 former territory of the FRG),Females,2.9
+2015,Estonia,Males,6.4
+2015,Estonia,Females,3.8
+2015,Ireland,Males,9.4
+2015,Ireland,Females,5.3
+2015,Greece,Males,2.5
+2015,Greece,Females,2.1
+2015,Spain,Males,4.5
+2015,Spain,Females,2.7
+2015,France,Males,5.3
+2015,France,Females,2.6
+2015,Croatia,Males,3.5
+2015,Croatia,Females,3
+2015,Italy,Males,4
+2015,Italy,Females,2.7
+2015,Cyprus,Males,3.7
+2015,Cyprus,Females,2.2
+2015,Latvia,Males,4.2
+2015,Latvia,Females,2.4
+2015,Lithuania,Males,2.8
+2015,Lithuania,Females,1.8
+2015,Luxembourg,Males,5.1
+2015,Luxembourg,Females,2.5
+2015,Hungary,Males,5.3
+2015,Hungary,Females,3.9
+2015,Malta,Males,6.6
+2015,Malta,Females,4.4
+2015,Netherlands,Males,5.3
+2015,Netherlands,Females,1.8
+2015,Austria,Males,5.3
+2015,Austria,Females,2.6
+2015,Poland,Males,3.5
+2015,Poland,Females,2.5
+2015,Portugal,Males,3.5
+2015,Portugal,Females,2
+2015,Romania,Males,2.8
+2015,Romania,Females,2.4
+2015,Slovenia,Males,6.6
+2015,Slovenia,Females,5.2
+2015,Slovakia,Males,5.1
+2015,Slovakia,Females,2.8
+2015,Finland,Males,7.7
+2015,Finland,Females,3.9
+2015,Sweden,Males,6.7
+2015,Sweden,Females,2.8
+2015,United Kingdom,Males,6.4
+2015,United Kingdom,Females,3
+2015,Iceland,Males,7.4
+2015,Iceland,Females,4.6
+2015,Norway,Males,5.4
+2015,Norway,Females,2.5
+2015,Switzerland,Males,7.5
+2015,Switzerland,Females,3.9
+2015,"Former Yugoslav Republic of Macedonia, the",Males,2.3
+2015,"Former Yugoslav Republic of Macedonia, the",Females,1.7
+2015,Turkey,Males,1.3
+2015,Turkey,Females,1.1
+2016,Belgium,Males,5.7
+2016,Belgium,Females,2.7
+2016,Bulgaria,Males,4
+2016,Bulgaria,Females,3.7
+2016,Czech Republic,Males,5.5
+2016,Czech Republic,Females,3.7
+2016,Denmark,Males,6.9
+2016,Denmark,Females,3.9
+2016,Germany (until 1990 former territory of the FRG),Males,5.1
+2016,Germany (until 1990 former territory of the FRG),Females,2.9
+2016,Estonia,Males,7
+2016,Estonia,Females,3.7
+2016,Ireland,Males,9.3
+2016,Ireland,Females,5.2
+2016,Greece,Males,2.8
+2016,Greece,Females,2
+2016,Spain,Males,4.3
+2016,Spain,Females,2.7
+2016,France,Males,5.3
+2016,France,Females,2.6
+2016,Croatia,Males,4.3
+2016,Croatia,Females,2.9
+2016,Italy,Males,4
+2016,Italy,Females,2.6
+2016,Cyprus,Males,3.4
+2016,Cyprus,Females,2.4
+2016,Latvia,Males,3.8
+2016,Latvia,Females,2.5
+2016,Lithuania,Males,2.7
+2016,Lithuania,Females,2.2
+2016,Luxembourg,Males,4.9
+2016,Luxembourg,Females,1.9
+2016,Hungary,Males,5.7
+2016,Hungary,Females,4.5
+2016,Malta,Males,7
+2016,Malta,Females,4.2
+2016,Netherlands,Males,5.6
+2016,Netherlands,Females,2.1
+2016,Austria,Males,5.5
+2016,Austria,Females,3
+2016,Poland,Males,3.4
+2016,Poland,Females,2.2
+2016,Portugal,Males,3.6
+2016,Portugal,Females,1.9
+2016,Romania,Males,2.9
+2016,Romania,Females,2.4
+2016,Slovenia,Males,6.3
+2016,Slovenia,Females,4.6
+2016,Slovakia,Males,5.1
+2016,Slovakia,Females,3
+2016,Finland,Males,7.6
+2016,Finland,Females,3.5
+2016,Sweden,Males,6.6
+2016,Sweden,Females,2.9
+2016,United Kingdom,Males,6.5
+2016,United Kingdom,Females,2.8
+2016,Iceland,Males,7
+2016,Iceland,Females,4.6
+2016,Norway,Males,5.2
+2016,Norway,Females,2.6
+2016,Switzerland,Males,7.8
+2016,Switzerland,Females,4.1
+2016,"Former Yugoslav Republic of Macedonia, the",Males,2.1
+2016,"Former Yugoslav Republic of Macedonia, the",Females,2.1
+2016,Turkey,Males,1.2
+2016,Turkey,Females,1
