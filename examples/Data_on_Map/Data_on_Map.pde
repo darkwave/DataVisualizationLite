@@ -5,7 +5,7 @@
 
 import datavisualization.*;
 
-DataVisualization data; 
+DataVisualization data;
 
 PShape europeMap;
 
@@ -15,7 +15,7 @@ void setup() {
    europeMap.disableStyle();
    data = new DataVisualization(this);
    data.load("eu_employment_in_tech.csv");
-   
+
 }
 
 void draw() {
@@ -32,7 +32,7 @@ void draw() {
   data.visualize();
 }
 
-void displayEntry(TableRow row) {
+void displayEntry(TableRow row, int idx) {
  int year = row.getInt("TIME");
  String sex = row.getString("SEX");
 

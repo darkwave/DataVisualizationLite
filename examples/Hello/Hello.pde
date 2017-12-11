@@ -16,7 +16,7 @@ void draw() {
    data.visualize();
 }
 int posX = 0;
-void displayEntry(TableRow row) {
+void displayEntry(TableRow row, int idx) {
 
   ellipse(posX, 50, 10, row.getInt("CONSUMO MEDIO RICOVERO") / 10);
   posX += 10;

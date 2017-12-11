@@ -1,9 +1,9 @@
 /**
  In this example we use data from "Production, value added and employment by industry groups in the environmental goods and services sector"
  data-set by eurostat available at http://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=env_ac_egss3&lang=en
- 
+
  We converted it into a simple csv file showing only per year "Total employment domestic concept" in "Full-time equivalent (FTE)"
- 
+
  **/
 
 import datavisualization.*; //import the library to help us with data
@@ -32,7 +32,7 @@ void setup() {
  This function decide how you draw every row of your data.
  **/
 
-void displayEntry(TableRow row) {
+void displayEntry(TableRow row, int idx) {
   String time = row.getString("time"); //get time (this is our label)
   float value = row.getFloat("value"); //get value (this is our quantity)
 

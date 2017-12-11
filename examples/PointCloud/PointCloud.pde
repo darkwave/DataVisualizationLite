@@ -23,7 +23,7 @@ void draw() {
   data.visualize();
 }
 
-void displayEntry(TableRow row) {
+void displayEntry(TableRow row, int idx) {
   // usiamo i primi tre caratteri del campo "Country" per la stringa "paese"
   String paese = row.getString("Country");
   paese = paese.substring(0, 3);
