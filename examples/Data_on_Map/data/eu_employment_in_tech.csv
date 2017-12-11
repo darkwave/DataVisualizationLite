@@ -7,8 +7,8 @@ TIME,GEO,SEX,VALUE
 2008,Czech Republic,Females,3.4
 2008,Denmark,Males,6.1
 2008,Denmark,Females,3.9
-2008,Germany (until 1990 former territory of the FRG),Males,5
-2008,Germany (until 1990 former territory of the FRG),Females,3.1
+2008,Germany,Males,5
+2008,Germany,Females,3.1
 2008,Estonia,Males,3.1
 2008,Estonia,Females,3.4
 2008,Ireland,Males,7.3
@@ -73,8 +73,8 @@ TIME,GEO,SEX,VALUE
 2009,Czech Republic,Females,3.4
 2009,Denmark,Males,6.5
 2009,Denmark,Females,3.6
-2009,Germany (until 1990 former territory of the FRG),Males,5.3
-2009,Germany (until 1990 former territory of the FRG),Females,3.1
+2009,Germany,Males,5.3
+2009,Germany,Females,3.1
 2009,Estonia,Males,3.5
 2009,Estonia,Females,3.5
 2009,Ireland,Males,8.3
@@ -139,8 +139,8 @@ TIME,GEO,SEX,VALUE
 2010,Czech Republic,Females,3.7
 2010,Denmark,Males,7.1
 2010,Denmark,Females,3.7
-2010,Germany (until 1990 former territory of the FRG),Males,5.3
-2010,Germany (until 1990 former territory of the FRG),Females,3.1
+2010,Germany,Males,5.3
+2010,Germany,Females,3.1
 2010,Estonia,Males,3.7
 2010,Estonia,Females,3.1
 2010,Ireland,Males,9
@@ -205,8 +205,8 @@ TIME,GEO,SEX,VALUE
 2011,Czech Republic,Females,3.6
 2011,Denmark,Males,7
 2011,Denmark,Females,3.6
-2011,Germany (until 1990 former territory of the FRG),Males,5.3
-2011,Germany (until 1990 former territory of the FRG),Females,3.1
+2011,Germany,Males,5.3
+2011,Germany,Females,3.1
 2011,Estonia,Males,5
 2011,Estonia,Females,3.1
 2011,Ireland,Males,9
@@ -271,8 +271,8 @@ TIME,GEO,SEX,VALUE
 2012,Czech Republic,Females,3.7
 2012,Denmark,Males,6.8
 2012,Denmark,Females,3.9
-2012,Germany (until 1990 former territory of the FRG),Males,5.4
-2012,Germany (until 1990 former territory of the FRG),Females,3
+2012,Germany,Males,5.4
+2012,Germany,Females,3
 2012,Estonia,Males,4.1
 2012,Estonia,Females,3.2
 2012,Ireland,Males,9.5
@@ -337,8 +337,8 @@ TIME,GEO,SEX,VALUE
 2013,Czech Republic,Females,3.7
 2013,Denmark,Males,7
 2013,Denmark,Females,3.8
-2013,Germany (until 1990 former territory of the FRG),Males,5.2
-2013,Germany (until 1990 former territory of the FRG),Females,3
+2013,Germany,Males,5.2
+2013,Germany,Females,3
 2013,Estonia,Males,4.7
 2013,Estonia,Females,3.5
 2013,Ireland,Males,9.3
@@ -403,8 +403,8 @@ TIME,GEO,SEX,VALUE
 2014,Czech Republic,Females,3.7
 2014,Denmark,Males,7.1
 2014,Denmark,Females,3.8
-2014,Germany (until 1990 former territory of the FRG),Males,5.2
-2014,Germany (until 1990 former territory of the FRG),Females,3
+2014,Germany,Males,5.2
+2014,Germany,Females,3
 2014,Estonia,Males,5.3
 2014,Estonia,Females,3.7
 2014,Ireland,Males,9.3
@@ -469,8 +469,8 @@ TIME,GEO,SEX,VALUE
 2015,Czech Republic,Females,3.7
 2015,Denmark,Males,7.1
 2015,Denmark,Females,4
-2015,Germany (until 1990 former territory of the FRG),Males,5
-2015,Germany (until 1990 former territory of the FRG),Females,2.9
+2015,Germany,Males,5
+2015,Germany,Females,2.9
 2015,Estonia,Males,6.4
 2015,Estonia,Females,3.8
 2015,Ireland,Males,9.4
@@ -535,8 +535,8 @@ TIME,GEO,SEX,VALUE
 2016,Czech Republic,Females,3.7
 2016,Denmark,Males,6.9
 2016,Denmark,Females,3.9
-2016,Germany (until 1990 former territory of the FRG),Males,5.1
-2016,Germany (until 1990 former territory of the FRG),Females,2.9
+2016,Germany,Males,5.1
+2016,Germany,Females,2.9
 2016,Estonia,Males,7
 2016,Estonia,Females,3.7
 2016,Ireland,Males,9.3
